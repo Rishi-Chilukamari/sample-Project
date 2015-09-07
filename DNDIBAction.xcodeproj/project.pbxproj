@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F9DAC961B831867007BD157 /* Brahmanandam..png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9DAC901B831867007BD157 /* Brahmanandam..png */; };
+		3F9DAC981B831867007BD157 /* Pawan.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9DAC921B831867007BD157 /* Pawan.png */; };
+		3F9DAC991B831867007BD157 /* Pranitha.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9DAC931B831867007BD157 /* Pranitha.png */; };
+		3F9DAC9A1B831867007BD157 /* R Ramesh.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9DAC941B831867007BD157 /* R Ramesh.png */; };
+		3F9DAC9B1B831867007BD157 /* Samantha.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9DAC951B831867007BD157 /* Samantha.png */; };
+		3F9DAC9F1B8324B4007BD157 /* Nadhiya.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F9DAC9E1B8324B4007BD157 /* Nadhiya.png */; };
 		3FE0DECA1B81EAF000D580FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE0DEC91B81EAF000D580FA /* main.m */; };
 		3FE0DECD1B81EAF000D580FA /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE0DECC1B81EAF000D580FA /* AppDelegate.m */; };
 		3FE0DED01B81EAF000D580FA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE0DECF1B81EAF000D580FA /* ViewController.m */; };
@@ -14,6 +20,7 @@
 		3FE0DED51B81EAF000D580FA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE0DED41B81EAF000D580FA /* Images.xcassets */; };
 		3FE0DED81B81EAF000D580FA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3FE0DED61B81EAF000D580FA /* LaunchScreen.xib */; };
 		3FE0DEE41B81EAF000D580FA /* DNDIBActionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE0DEE31B81EAF000D580FA /* DNDIBActionTests.m */; };
+		3FE0DEEF1B81EB0000D580FA /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FE0DEEE1B81EB0000D580FA /* ViewController2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +34,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F9DAC901B831867007BD157 /* Brahmanandam..png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Brahmanandam..png; sourceTree = "<group>"; };
+		3F9DAC921B831867007BD157 /* Pawan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pawan.png; sourceTree = "<group>"; };
+		3F9DAC931B831867007BD157 /* Pranitha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pranitha.png; sourceTree = "<group>"; };
+		3F9DAC941B831867007BD157 /* R Ramesh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "R Ramesh.png"; sourceTree = "<group>"; };
+		3F9DAC951B831867007BD157 /* Samantha.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Samantha.png; sourceTree = "<group>"; };
+		3F9DAC9E1B8324B4007BD157 /* Nadhiya.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Nadhiya.png; sourceTree = "<group>"; };
 		3FE0DEC41B81EAF000D580FA /* DNDIBAction.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DNDIBAction.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE0DEC81B81EAF000D580FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FE0DEC91B81EAF000D580FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +53,8 @@
 		3FE0DEDD1B81EAF000D580FA /* DNDIBActionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DNDIBActionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FE0DEE21B81EAF000D580FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FE0DEE31B81EAF000D580FA /* DNDIBActionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DNDIBActionTests.m; sourceTree = "<group>"; };
+		3FE0DEED1B81EB0000D580FA /* ViewController2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		3FE0DEEE1B81EB0000D580FA /* ViewController2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +78,8 @@
 		3FE0DEBB1B81EAF000D580FA = {
 			isa = PBXGroup;
 			children = (
+				3FE0DEED1B81EB0000D580FA /* ViewController2.h */,
+				3FE0DEEE1B81EB0000D580FA /* ViewController2.m */,
 				3FE0DEC61B81EAF000D580FA /* DNDIBAction */,
 				3FE0DEE01B81EAF000D580FA /* DNDIBActionTests */,
 				3FE0DEC51B81EAF000D580FA /* Products */,
@@ -81,6 +98,12 @@
 		3FE0DEC61B81EAF000D580FA /* DNDIBAction */ = {
 			isa = PBXGroup;
 			children = (
+				3F9DAC921B831867007BD157 /* Pawan.png */,
+				3F9DAC951B831867007BD157 /* Samantha.png */,
+				3F9DAC931B831867007BD157 /* Pranitha.png */,
+				3F9DAC941B831867007BD157 /* R Ramesh.png */,
+				3F9DAC9E1B8324B4007BD157 /* Nadhiya.png */,
+				3F9DAC901B831867007BD157 /* Brahmanandam..png */,
 				3FE0DECB1B81EAF000D580FA /* AppDelegate.h */,
 				3FE0DECC1B81EAF000D580FA /* AppDelegate.m */,
 				3FE0DECE1B81EAF000D580FA /* ViewController.h */,
@@ -199,8 +222,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F9DAC991B831867007BD157 /* Pranitha.png in Resources */,
+				3F9DAC9B1B831867007BD157 /* Samantha.png in Resources */,
+				3F9DAC9A1B831867007BD157 /* R Ramesh.png in Resources */,
+				3F9DAC961B831867007BD157 /* Brahmanandam..png in Resources */,
+				3F9DAC9F1B8324B4007BD157 /* Nadhiya.png in Resources */,
 				3FE0DED31B81EAF000D580FA /* Main.storyboard in Resources */,
 				3FE0DED81B81EAF000D580FA /* LaunchScreen.xib in Resources */,
+				3F9DAC981B831867007BD157 /* Pawan.png in Resources */,
 				3FE0DED51B81EAF000D580FA /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -220,6 +249,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FE0DED01B81EAF000D580FA /* ViewController.m in Sources */,
+				3FE0DEEF1B81EB0000D580FA /* ViewController2.m in Sources */,
 				3FE0DECD1B81EAF000D580FA /* AppDelegate.m in Sources */,
 				3FE0DECA1B81EAF000D580FA /* main.m in Sources */,
 			);
@@ -416,6 +446,7 @@
 				3FE0DEE91B81EAF000D580FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FE0DEEA1B81EAF000D580FA /* Build configuration list for PBXNativeTarget "DNDIBActionTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +455,7 @@
 				3FE0DEEC1B81EAF000D580FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

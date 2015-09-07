@@ -7,8 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ViewController2.h"
 
 @interface ViewController : UIViewController
+
+- (IBAction)AttarintikidarediCast:(id)sender;
 
 
 @end
